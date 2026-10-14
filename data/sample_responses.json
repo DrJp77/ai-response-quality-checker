@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "prompt": "Jelaskan apa itu fungsi rekursif dalam pemrograman.",
+    "response": "Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri untuk menyelesaikan sub-masalah yang lebih kecil hingga mencapai kondisi berhenti (base case)."
+  },
+  {
+    "id": 2,
+    "prompt": "Bagaimana cara membaca file teks di Python?",
+    "response": "   \n\t   "
+  },
+  {
+    "id": 3,
+    "prompt": "Tuliskan contoh perulangan for di Python.",
+    "response": ""
+  },
+  {
+    "id": 4,
+    "prompt": "Apa ibu kota negara Indonesia?",
+    "response": "Ibu kota Indonesia adalah Nusantara (IKN), yang sebelumnya berada di DKI Jakarta."
+  },
+  {
+    "id": 5,
+    "prompt": "Apa ibu kota negara Indonesia?",
+    "response": "Ibu kota Indonesia adalah Nusantara (IKN), yang sebelumnya berada di DKI Jakarta."
+  },
+  {
+    "id": 6,
+    "prompt": "Sebutkan 3 tipe data dasar pada bahasa Python.",
+    "response": "Tiga tipe data dasar di Python adalah integer (int), float, dan string (str)."
+  },
+  {
+    "id": 7,
+    "prompt": "Sebutkan 3 tipe data dasar pada bahasa Python.",
+    "response": "Integer, string, dan boolean adalah tipe data umum di Python."
+  },
+  {
+    "id": 8,
+    "prompt": "Jelaskan perbedaan antara list dan tuple di Python."
+  },
+  {
+    "id": 9,
+    "response": "List bersifat mutable (bisa diubah), sedangkan tuple bersifat immutable (tidak bisa diubah)."
+  },
+  {
+    "id": 10,
+    "prompt": 123456,
+    "response": "Jawaban ini memiliki prompt dengan tipe data angka, bukan teks."
+  },
+  {
+    "id": 11,
+    "prompt": "Bagaimana cara mendeklarasikan fungsi di Python?",
+    "response": null
+  },
+  {
+    "id": 12,
+    "prompt": "Mengapa kita sebaiknya menggunakan virtual environment?",
+    "response": "Virtual environment mengisolasi pustaka dan dependensi proyek agar tidak bertabrakan dengan proyek lain atau Python sistem."
+  }
+]

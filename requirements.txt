@@ -1,0 +1,2 @@
+# Testing framework for automated quality checks
+pytest>=8.0.0

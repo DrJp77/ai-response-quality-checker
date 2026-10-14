@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.local
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Auto-generated output (created by running src/report.py)
+reports/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
